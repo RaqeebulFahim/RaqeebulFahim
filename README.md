@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Raqeebul Fahim</h1>
 <h3 align="center">Full Stack Developer | Laravel & React</h3>
 
@@ -63,4 +63,3 @@ Building modern web applications with scalable backend systems and clean fronten
 <p align="center">
 ⭐ Building products, solving problems, and growing every day.
 </p>
-```
